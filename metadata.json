@@ -1,0 +1,6 @@
+{
+  "name": "WOM Finance - Monitoring Insentif & Performance Collection Palembang 2",
+  "description": "Dashboard Monitoring Insentif dan Performance Real-Time Collection Officer (FE 01-30 & MR 31-60) PT Wahana Ottomitra Multiartha Tbk (WOM Finance) Cabang Palembang 2 Sumbagsel BU 8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
